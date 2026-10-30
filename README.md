@@ -1,0 +1,3 @@
+# QuickCap (QC) Motion Capture
+
+We're still setting things up...
